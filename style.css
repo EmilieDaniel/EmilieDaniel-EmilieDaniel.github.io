@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-image: url('https://unsplash.com/photos/Ji47cw5oZSw');
+  background-image: url("https://images.unsplash.com/photo-1615742708220-e35f32936bd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1834&q=80");
   background-position: center;
 }
 
@@ -58,7 +58,7 @@ nav, article, aside, footer {
 
 nav {
   height: 50px;
-  background-color: #D5CABD;
+  background-color: white;
   display: flex;
   margin-bottom: 10px;
 }
