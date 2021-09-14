@@ -122,7 +122,7 @@ article {
 aside {
   flex: 1;
   margin-left: 10px;
-  background-color: #ff80ff;
+  background-color: white;
 }
 
 aside li {
